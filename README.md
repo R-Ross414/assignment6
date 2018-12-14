@@ -5,6 +5,7 @@ CPSC350-02
 rross@chapman.edu
 
 Resources Used:
+http://www.cplusplus.com/reference/ctime/clock_t/?kw=clock_t
 http://www.cplusplus.com/reference/ctime/time/?kw=time
 https://www.geeksforgeeks.org/bubble-sort/
 https://www.geeksforgeeks.org/quick-sort/
