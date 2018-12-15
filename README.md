@@ -20,3 +20,4 @@ https://latexbase.com/d/ae86db70-7718-48bd-96d3-d39b0ccbd01d
 https://www.latex-tutorial.com/tutorials/first-document/
 http://ctan.math.washington.edu/tex-archive/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf
 https://www.ieee.org/conferences/publishing/templates.html
+https://www.overleaf.com/learn/latex/Multiple_columns#Column_separation
