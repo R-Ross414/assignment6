@@ -4,6 +4,8 @@ ID 2294513
 CPSC350-02
 rross@chapman.edu
 
+In order to test each algorithm separately, I commented out 3/4 of the ones in main. Then I would focus on a different one and uncomment a different 3 algorithms. I was unfamiliar with LaTex and the IEEE template so I used different guides on Google. I included the LaTex code as well as the PDF. I programmed in LaTex using latexbase.com/.
+
 Resources Used for Coding the Program:
 http://www.cplusplus.com/reference/ctime/clock_t/?kw=clock_t
 http://www.cplusplus.com/reference/ctime/time/?kw=time
